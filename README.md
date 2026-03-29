@@ -22,4 +22,8 @@ This project analyzes sales data using SQL. The database contains customers, pro
 - Top Customers
 
 ## Author
+<<<<<<< HEAD
 Nafis Shaikh
+=======
+Nafis Shaikh
+>>>>>>> d58bd73008a5d3e7b0e5a1315c70fd9c5ee1262d
